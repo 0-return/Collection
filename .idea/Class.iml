@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP Runtime" type="php">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard" />
+        </CLASSES>
+        <SOURCES>
+          <root url="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="shenghuo" />
+    <orderEntry type="module" module-name="shenghuo" />
+    <orderEntry type="module" module-name="shenghuo" />
+    <orderEntry type="module" module-name="Api" />
+    <orderEntry type="module" module-name="shdApp" />
+    <orderEntry type="module" module-name="shdApp" />
+    <orderEntry type="module" module-name="shenhuoAdmin" />
+    <orderEntry type="module" module-name="shenhuoApi" />
+    <orderEntry type="module" module-name="sh" />
+    <orderEntry type="module" module-name="tool" />
+    <orderEntry type="module" module-name="hfApp" />
+    <orderEntry type="module" module-name="hfAppAdmin" />
+    <orderEntry type="module" module-name="hfAppAdmin" />
+    <orderEntry type="module" module-name="Adv" />
+    <orderEntry type="module" module-name="Adv" />
+    <orderEntry type="module" module-name="advmanage" />
+    <orderEntry type="module" module-name="hfApp" />
+    <orderEntry type="module" module-name="cash" />
+    <orderEntry type="module" module-name="tp5" />
+    <orderEntry type="module" module-name="wos" />
+    <orderEntry type="module" module-name="wosApi" />
+    <orderEntry type="module" module-name="hfApp" />
+    <orderEntry type="module" module-name="Api" />
+    <orderEntry type="module" module-name="fwy" />
+    <orderEntry type="module" module-name="barcode" />
+    <orderEntry type="module" module-name="barcode" />
+    <orderEntry type="module" module-name="sh" />
+    <orderEntry type="module" module-name="v7" />
+    <orderEntry type="module" module-name="fwy" />
+    <orderEntry type="module" module-name="fwy" />
+    <orderEntry type="module" module-name="fwy" />
+    <orderEntry type="module" module-name="fwy" />
+    <orderEntry type="module" module-name="lztz" />
+    <orderEntry type="module" module-name="hbfq" />
+    <orderEntry type="module" module-name="fwy" />
+    <orderEntry type="module" module-name="fwy" />
+    <orderEntry type="module" module-name="fwy" />
+    <orderEntry type="module" module-name="fwy" />
+    <orderEntry type="module" module-name="fwy" />
+    <orderEntry type="module" module-name="fwy" />
+    <orderEntry type="module" module-name="fwy2.0" />
+    <orderEntry type="module" module-name="Resource" />
+    <orderEntry type="module" module-name="fwy2.0" />
+    <orderEntry type="module" module-name="Sale" />
+    <orderEntry type="module" module-name="btb" />
+    <orderEntry type="module" module-name="integral" />
+    <orderEntry type="module" module-name="agent" />
+    <orderEntry type="module" module-name="back" />
+    <orderEntry type="module" module-name="Resource" />
+    <orderEntry type="module" module-name="tp5" />
+    <orderEntry type="module" module-name="tp5" />
+    <orderEntry type="module" module-name="tp5.02" />
+    <orderEntry type="module" module-name="yf135" />
+    <orderEntry type="module" module-name="ywk" />
+    <orderEntry type="module" module-name="lpjy" />
+    <orderEntry type="module" module-name="tp5.02" />
+    <orderEntry type="module" module-name="tp5.02" />
+    <orderEntry type="module" module-name="Sale" />
+    <orderEntry type="module" module-name="SaleApi" />
+    <orderEntry type="module" module-name="tp5.02" />
+    <orderEntry type="module" module-name="fwy2.0" />
+    <orderEntry type="module" module-name="fwy3.0" />
+    <orderEntry type="module" module-name="fwy2.0" />
+    <orderEntry type="module" module-name="fwy3.1" />
+    <orderEntry type="module" module-name="camera" />
+    <orderEntry type="module" module-name="SaleHome" />
+    <orderEntry type="module" module-name="Demo" />
+  </component>
+</module>

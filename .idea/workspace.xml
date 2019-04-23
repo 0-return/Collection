@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../lztz/Application/Admin/Controller/ConsultationController.class.php" line="69" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97f54507-0faf-4ea1-b0d6-7037913e1231" name="默认的" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fwy2.0/Application/Common/Controller/ImController.class.php" afterPath="$PROJECT_DIR$/../fwy2.0/Application/Common/Controller/ImController.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fwy2.0/Application/Help/Controller/IndexController.class.php" afterPath="$PROJECT_DIR$/../fwy2.0/Application/Help/Controller/IndexController.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fwy2.0/Application/Iapi/Controller/OrderController.class.php" afterPath="$PROJECT_DIR$/../fwy2.0/Application/Iapi/Controller/OrderController.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fwy2.0/Application/Server/Controller/ServerController.class.php" afterPath="$PROJECT_DIR$/../fwy2.0/Application/Server/Controller/ServerController.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fwy3.0/application/uapi/controller/Api.php" afterPath="$PROJECT_DIR$/../fwy3.0/application/uapi/controller/Api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fwy3.0/application/uapi/controller/v3/Home.php" afterPath="$PROJECT_DIR$/../fwy3.0/application/uapi/controller/v3/Home.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sh/Application/Common/Controller/AdminController.class.php" afterPath="$PROJECT_DIR$/../sh/Application/Common/Controller/AdminController.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../v7/data/config.php" afterPath="$PROJECT_DIR$/../v7/data/config.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Class" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Init.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/common/controller/Init.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="37" column="66" lean-forward="false" selection-start-line="36" selection-start-column="8" selection-end-line="37" selection-end-column="66" />
+              <folding>
+                <marker date="1555404043156" expanded="true" signature="2041:2045" ph="&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v1/Index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v1/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="236" column="39" lean-forward="false" selection-start-line="236" selection-start-column="39" selection-end-line="236" selection-end-column="39" />
+              <folding>
+                <element signature="e#2223#2287#0#PHP" expanded="true" />
+                <element signature="e#2571#4441#0#PHP" expanded="false" />
+                <element signature="e#4518#5369#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>member/show</find>
+      <find>User/getcode</find>
+      <find>show</find>
+      <find>home/show</find>
+      <find>chat/showall</find>
+      <find>tap</find>
+      <find>get_ac</find>
+      <find>_before_edit</find>
+      <find>content/add</find>
+      <find>checkmobile</find>
+      <find>order/tporder</find>
+      <find>putcash</find>
+      <find>退款</find>
+      <find>curl_setopt</find>
+      <find>content/edit</find>
+      <find>Shortxt</find>
+      <find>findlawyer</find>
+      <find>shortxt</find>
+      <find>shortxt/add</find>
+      <find>cret/show</find>
+      <find>member/checkmobile</find>
+      <find>getinfo</find>
+      <find>getLawyer</find>
+      <find>Lawyer</find>
+      <find>withapply</find>
+      <find>content</find>
+      <find>get_type_str</find>
+      <find>$linstr</find>
+      <find>update</find>
+      <find>lcforder</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>coin</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../fwy2.0" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Syslog.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Sysmsg.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Test.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Version.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/public/ac.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/database.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Index.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/tags.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/behaviors/Login.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/admin/behaviors/Login.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/config.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/User.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Role.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Auth.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Param.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Taskbar.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Setsms.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Website.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Payapi.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Articlecate.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Article.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Advert.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Agreement.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Video.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Sign.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Smsmsg.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Complaint.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Dbfwy.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/common/controller/Init.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Img.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/admin/controller/Img.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Advertcate.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Campaign.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Whisky.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Sweety.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Member.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v3/Advert.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v1/Config.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v1/Home.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v1/Itf.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v1/Member.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v1/Msg.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v1/Share.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v1/Index.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_client/validate/User.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v1/User.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_client/validate/Advert.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v1/Advert.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp59925/web.sanhedao.com.cn/addons/api0351_user/wxapp.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/common.php" />
+        <option value="$PROJECT_DIR$/../fwy3.1/application/route.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/../camera/back/Admin/node_modules" />
+    <handled-path value="$PROJECT_DIR$/../camera/back/Server/node_modules" />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.0" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1612" />
+    <option name="height" value="886" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="添加" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fwy3.1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fwy3.1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fwy3.1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wxpay" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fwy3.1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Demo" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.splitter.proportion" value="0.26150832" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/WWW/fwy2.0/Application/Hapi/Controller/UserController.class.php" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="nodejs_interpreter_path" value="D:/Program Files/node/node" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Program Files\node\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="http://localhost.fwy2/Public/Admin/lib/webuploader/0.1.5/webuploader.support.js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WWW\fwy2.0\Application\Admin\Controller" />
+      <recent name="E:\WWW\hbfq\Application\Common\Controller" />
+      <recent name="E:\WWW\barcode\Application\Uapi\Controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WWW\barcode\Application\Uapi\Controller" />
+      <recent name="E:\WWW\barcode\Application\Admin\Controller" />
+      <recent name="E:\WWW\sh\Application\Cashapi\Controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.php">
+    <configuration default="false" name="fwy3.1" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/../fwy3.1" />
+      <method />
+    </configuration>
+    <configuration default="false" name="public" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/../fwy3.1/public/admin.php" />
+      <method />
+    </configuration>
+    <configuration default="false" name="public (1)" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" editBeforeRun="true" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/../fwy3.1/public" />
+      <method />
+    </configuration>
+    <configuration default="false" name="index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Class/public/index.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="404.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Class/404.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="PHPUnit.fwy3.1" />
+      <item index="1" class="java.lang.String" itemvalue="PHPUnit.public" />
+      <item index="2" class="java.lang.String" itemvalue="PHPUnit.public (1)" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.404.html" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.404.html" />
+        <item index="2" class="java.lang.String" itemvalue="PHPUnit.public (1)" />
+        <item index="3" class="java.lang.String" itemvalue="PHPUnit.public" />
+        <item index="4" class="java.lang.String" itemvalue="PHPUnit.fwy3.1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97f54507-0faf-4ea1-b0d6-7037913e1231" name="默认的" comment="" />
+      <created>1502953556388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502953556388</updated>
+      <workItem from="1502953557678" duration="10969000" />
+      <workItem from="1503016982073" duration="23547000" />
+      <workItem from="1503105285495" duration="8315000" />
+      <workItem from="1503276371523" duration="10820000" />
+      <workItem from="1503305884078" duration="44972000" />
+      <workItem from="1503469925426" duration="35535000" />
+      <workItem from="1503621980512" duration="11636000" />
+      <workItem from="1503649074655" duration="16870000" />
+      <workItem from="1503881675200" duration="15521000" />
+      <workItem from="1503906148017" duration="8462000" />
+      <workItem from="1503967983866" duration="20790000" />
+      <workItem from="1504054687880" duration="38325000" />
+      <workItem from="1504227085119" duration="3529000" />
+      <workItem from="1504233075046" duration="25772000" />
+      <workItem from="1504487097726" duration="493000" />
+      <workItem from="1504488452860" duration="1253000" />
+      <workItem from="1504491061243" duration="22543000" />
+      <workItem from="1504572543875" duration="24573000" />
+      <workItem from="1504659295810" duration="21152000" />
+      <workItem from="1504745578071" duration="36479000" />
+      <workItem from="1505090683371" duration="3423000" />
+      <workItem from="1505101615550" duration="395000" />
+      <workItem from="1505102202639" duration="1016000" />
+      <workItem from="1505105286257" duration="1914000" />
+      <workItem from="1505114584966" duration="15550000" />
+      <workItem from="1505263961378" duration="2774000" />
+      <workItem from="1505350258537" duration="142241000" />
+      <workItem from="1506145914034" duration="80065000" />
+      <workItem from="1507515266485" duration="179380000" />
+      <workItem from="1508742026944" duration="18152000" />
+      <workItem from="1508907711799" duration="12652000" />
+      <workItem from="1508983312535" duration="40888000" />
+      <workItem from="1509324814395" duration="22919000" />
+      <workItem from="1509351467287" duration="117311000" />
+      <workItem from="1509938762544" duration="6405000" />
+      <workItem from="1509962344370" duration="104717000" />
+      <workItem from="1510534313565" duration="38028000" />
+      <workItem from="1510707377152" duration="1439000" />
+      <workItem from="1510971190733" duration="4838000" />
+      <workItem from="1511144860273" duration="3037000" />
+      <workItem from="1511168745596" duration="15507000" />
+      <workItem from="1511571265601" duration="10908000" />
+      <workItem from="1511743984166" duration="19584000" />
+      <workItem from="1511831107430" duration="59000" />
+      <workItem from="1511917147967" duration="1456000" />
+      <workItem from="1511951216462" duration="616000" />
+      <workItem from="1512003389180" duration="17664000" />
+      <workItem from="1512179888650" duration="6382000" />
+      <workItem from="1512349434659" duration="21472000" />
+      <workItem from="1512528574299" duration="141009000" />
+      <workItem from="1512954727413" duration="144462000" />
+      <workItem from="1513386111776" duration="31718000" />
+      <workItem from="1513487278924" duration="123555000" />
+      <workItem from="1513680017345" duration="163423000" />
+      <workItem from="1513991016305" duration="191062000" />
+      <workItem from="1514336285961" duration="9174000" />
+      <workItem from="1514364917550" duration="14232000" />
+      <workItem from="1514430174601" duration="42971000" />
+      <workItem from="1514871983410" duration="4325000" />
+      <workItem from="1514884728803" duration="2065000" />
+      <workItem from="1515053055582" duration="18008000" />
+      <workItem from="1515200702969" duration="6516000" />
+      <workItem from="1515372693161" duration="128447000" />
+      <workItem from="1515639850855" duration="3710000" />
+      <workItem from="1515651480918" duration="37808000" />
+      <workItem from="1515806032809" duration="8823000" />
+      <workItem from="1516064267953" duration="32622000" />
+      <workItem from="1516928497536" duration="12290000" />
+      <workItem from="1516171261668" duration="17237000" />
+      <workItem from="1516241407543" duration="20540000" />
+      <workItem from="1516322578976" duration="891000" />
+      <workItem from="1516324189129" duration="30101000" />
+      <workItem from="1516410328531" duration="4953000" />
+      <workItem from="1516583014982" duration="94032000" />
+      <workItem from="1517189285040" duration="164198000" />
+      <workItem from="1517543886127" duration="20133000" />
+      <workItem from="1517621035995" duration="6551000" />
+      <workItem from="1517792634408" duration="3079000" />
+      <workItem from="1517823119346" duration="80752000" />
+      <workItem from="1518142727403" duration="62212000" />
+      <workItem from="1518397975961" duration="9176000" />
+      <workItem from="1518417843944" duration="15502000" />
+      <workItem from="1519346993309" duration="9532000" />
+      <workItem from="1519433950700" duration="19440000" />
+      <workItem from="1519607354231" duration="57503000" />
+      <workItem from="1519802996683" duration="62683000" />
+      <workItem from="1520211348512" duration="112420000" />
+      <workItem from="1520384224875" duration="127914000" />
+      <workItem from="1520650296111" duration="6589000" />
+      <workItem from="1520816255066" duration="59184000" />
+      <workItem from="1520990465209" duration="27432000" />
+      <workItem from="1521075020928" duration="45113000" />
+      <workItem from="1521179937772" duration="15616000" />
+      <workItem from="1521247070046" duration="17177000" />
+      <workItem from="1521420746850" duration="25025000" />
+      <workItem from="1521508473637" duration="24097000" />
+      <workItem from="1521682632552" duration="49365000" />
+      <workItem from="1522025623459" duration="20705000" />
+      <workItem from="1522112246551" duration="159794000" />
+      <workItem from="1523149164095" duration="91513000" />
+      <workItem from="1523415681722" duration="23123000" />
+      <workItem from="1523494009896" duration="52726000" />
+      <workItem from="1523672657985" duration="4578000" />
+      <workItem from="1523840272715" duration="28792000" />
+      <workItem from="1523950193896" duration="74910000" />
+      <workItem from="1524446032033" duration="42412000" />
+      <workItem from="1524564204127" duration="28392000" />
+      <workItem from="1525395555621" duration="29037000" />
+      <workItem from="1525653447830" duration="39136000" />
+      <workItem from="1525828014505" duration="75012000" />
+      <workItem from="1526259113728" duration="61153000" />
+      <workItem from="1526450564672" duration="293000" />
+      <workItem from="1526451217959" duration="152167000" />
+      <workItem from="1526863864110" duration="27072000" />
+      <workItem from="1526951406356" duration="26712000" />
+      <workItem from="1527036413934" duration="23794000" />
+      <workItem from="1527123722865" duration="53420000" />
+      <workItem from="1527468640513" duration="49633000" />
+      <workItem from="1527668368341" duration="53322000" />
+      <workItem from="1528073566542" duration="63116000" />
+      <workItem from="1528678601276" duration="115640000" />
+      <workItem from="1529387834944" duration="72257000" />
+      <workItem from="1529891072383" duration="42567000" />
+      <workItem from="1530060801802" duration="45208000" />
+      <workItem from="1530493458413" duration="196591000" />
+      <workItem from="1531183737724" duration="221826000" />
+      <workItem from="1531703027952" duration="258287000" />
+      <workItem from="1532307449124" duration="100335000" />
+      <workItem from="1532480633846" duration="125561000" />
+      <workItem from="1532912528913" duration="805000" />
+      <workItem from="1532934881289" duration="26039000" />
+      <workItem from="1533085144910" duration="19906000" />
+      <workItem from="1533171634932" duration="15973000" />
+      <workItem from="1533258265747" duration="778000" />
+      <workItem from="1533263359793" duration="11235000" />
+      <workItem from="1533344731069" duration="12061000" />
+      <workItem from="1533516921919" duration="38042000" />
+      <workItem from="1533689944086" duration="17688000" />
+      <workItem from="1533781364039" duration="10178000" />
+      <workItem from="1533862784308" duration="5259000" />
+      <workItem from="1533949223669" duration="1294000" />
+      <workItem from="1534381213409" duration="159068000" />
+      <workItem from="1534726789140" duration="20425000" />
+      <workItem from="1534812676859" duration="25740000" />
+      <workItem from="1534902194270" duration="23010000" />
+      <workItem from="1534986323514" duration="25377000" />
+      <workItem from="1536195603571" duration="6347000" />
+      <workItem from="1536541251406" duration="65398000" />
+      <workItem from="1536802172781" duration="103750000" />
+      <workItem from="1537146094835" duration="45311000" />
+      <workItem from="1537318600107" duration="57737000" />
+      <workItem from="1537491616129" duration="28207000" />
+      <workItem from="1537923717980" duration="124923000" />
+      <workItem from="1538184518137" duration="6077000" />
+      <workItem from="1538269211948" duration="10775000" />
+      <workItem from="1538304453352" duration="59000" />
+      <workItem from="1538960341032" duration="64256000" />
+      <workItem from="1539221983284" duration="22877000" />
+      <workItem from="1539306015877" duration="7348000" />
+      <workItem from="1539392518071" duration="7556000" />
+      <workItem from="1539569866602" duration="37196000" />
+      <workItem from="1539738121461" duration="1228000" />
+      <workItem from="1539761280496" duration="23253000" />
+      <workItem from="1539910804637" duration="19756000" />
+      <workItem from="1540170012219" duration="5779000" />
+      <workItem from="1540256462356" duration="2540000" />
+      <workItem from="1540342900393" duration="7726000" />
+      <workItem from="1540449695152" duration="2837000" />
+      <workItem from="1540515606317" duration="238000" />
+      <workItem from="1540538302784" duration="9186000" />
+      <workItem from="1540602062868" duration="581000" />
+      <workItem from="1540774815364" duration="931000" />
+      <workItem from="1540797136239" duration="2547000" />
+      <workItem from="1540860705777" duration="879000" />
+      <workItem from="1540886741435" duration="2436000" />
+      <workItem from="1540947597326" duration="12767000" />
+      <workItem from="1541033521399" duration="11377000" />
+      <workItem from="1541120448490" duration="10899000" />
+      <workItem from="1541206802069" duration="1766000" />
+      <workItem from="1541552249675" duration="22290000" />
+      <workItem from="1541725321020" duration="6312000" />
+      <workItem from="1541984383150" duration="1843000" />
+      <workItem from="1542008739343" duration="33309000" />
+      <workItem from="1542157213071" duration="2973000" />
+      <workItem from="1542416407429" duration="5727000" />
+      <workItem from="1542589211107" duration="28267000" />
+      <workItem from="1542673493320" duration="68681000" />
+      <workItem from="1543191879511" duration="145311000" />
+      <workItem from="1543796479979" duration="82145000" />
+      <workItem from="1544056011066" duration="38961000" />
+      <workItem from="1544161460754" duration="16501000" />
+      <workItem from="1544230697561" duration="10260000" />
+      <workItem from="1544403640259" duration="26563000" />
+      <workItem from="1544489704743" duration="96691000" />
+      <workItem from="1545008552160" duration="26512000" />
+      <workItem from="1545094777343" duration="52930000" />
+      <workItem from="1545613106853" duration="88846000" />
+      <workItem from="1545709769169" duration="64950000" />
+      <workItem from="1546390856771" duration="38717000" />
+      <workItem from="1546488146695" duration="39128000" />
+      <workItem from="1546822849307" duration="46053000" />
+      <workItem from="1546932673460" duration="94226000" />
+      <workItem from="1547113510005" duration="35702000" />
+      <workItem from="1547427883012" duration="38458000" />
+      <workItem from="1547524670600" duration="63681000" />
+      <workItem from="1547600487000" duration="1302000" />
+      <workItem from="1547603668537" duration="52571000" />
+      <workItem from="1548032428802" duration="33900000" />
+      <workItem from="1548293320597" duration="22497000" />
+      <workItem from="1548637218254" duration="8765000" />
+      <workItem from="1548723660839" duration="3723000" />
+      <workItem from="1548896425185" duration="4470000" />
+      <workItem from="1548982830238" duration="3439000" />
+      <workItem from="1549069246441" duration="19050000" />
+      <workItem from="1549847229731" duration="45724000" />
+      <workItem from="1550022250296" duration="39777000" />
+      <workItem from="1550451626999" duration="79118000" />
+      <workItem from="1550715331500" duration="87974000" />
+      <workItem from="1551142776310" duration="103781000" />
+      <workItem from="1551664452294" duration="73611000" />
+      <workItem from="1551919959297" duration="116312000" />
+      <workItem from="1552266061896" duration="11388000" />
+      <workItem from="1552287099133" duration="10881000" />
+      <workItem from="1552352300440" duration="2359000" />
+      <workItem from="1552356364223" duration="616000" />
+      <workItem from="1552357259124" duration="2438000" />
+      <workItem from="1552363035270" duration="102834000" />
+      <workItem from="1552870520224" duration="130791000" />
+      <workItem from="1553474768372" duration="239110000" />
+      <workItem from="1553907307866" duration="3081000" />
+      <workItem from="1554081906455" duration="50456000" />
+      <workItem from="1554260972210" duration="20828000" />
+      <workItem from="1554426002190" duration="258844000" />
+      <workItem from="1554771492436" duration="21303000" />
+      <workItem from="1554885486509" duration="44824000" />
+      <workItem from="1555290026480" duration="18196000" />
+      <workItem from="1555466654591" duration="33582000" />
+      <workItem from="1555895423336" duration="1192000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9877673000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1612" height="886" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18170427" sideWeight="0.43824703" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33762887" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22300771" sideWeight="0.561753" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32860824" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="148" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="106" column="27" lean-forward="false" selection-start-line="106" selection-start-column="27" selection-end-line="106" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Taskbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Setsms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="62" column="35" lean-forward="false" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Website.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Agreement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="40" column="27" lean-forward="false" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Article.php" />
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Articlecate.php" />
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Video.php" />
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Sign.php" />
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Smsmsg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="197" column="27" lean-forward="false" selection-start-line="197" selection-start-column="27" selection-end-line="197" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Dbfwy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="102" column="42" lean-forward="false" selection-start-line="102" selection-start-column="35" selection-end-line="102" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Complaint.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="62" column="24" lean-forward="false" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Payapi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Param.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Smsmodule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Advert.php" />
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/admin/controller/Img.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="41" column="26" lean-forward="false" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Img.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="144" column="93" lean-forward="false" selection-start-line="144" selection-start-column="93" selection-end-line="144" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Sysmsg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="36" column="31" lean-forward="false" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Advertcate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="55" column="20" lean-forward="true" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/admin/controller/Lawyer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/admin/controller/Goods.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="43" column="33" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/admin/controller/Order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="93" column="8" lean-forward="true" selection-start-line="93" selection-start-column="8" selection-end-line="98" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/admin/controller/Content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="101" column="94" lean-forward="false" selection-start-line="101" selection-start-column="90" selection-end-line="101" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/admin/controller/Member.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="385" column="4" lean-forward="false" selection-start-line="385" selection-start-column="4" selection-end-line="390" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Campaign.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="84" column="52" lean-forward="true" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Whisky.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="58" column="80" lean-forward="false" selection-start-line="57" selection-start-column="12" selection-end-line="58" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Sweety.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="66" column="80" lean-forward="false" selection-start-line="66" selection-start-column="80" selection-end-line="66" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v3/Advert.php" />
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/controller/Member.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="152" column="59" lean-forward="false" selection-start-line="152" selection-start-column="59" selection-end-line="152" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v1/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v1/Home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v1/Itf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v1/Member.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v1/Msg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v1/Share.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_server/common/controller/Init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="37" column="66" lean-forward="false" selection-start-line="36" selection-start-column="8" selection-end-line="37" selection-end-column="66" />
+          <folding>
+            <marker date="1555404043156" expanded="true" signature="2041:2045" ph="&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_client/validate/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/lapi/controller/v3/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="166" column="9" lean-forward="true" selection-start-line="164" selection-start-column="8" selection-end-line="166" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_client/validate/Advert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp59925/web.sanhedao.com.cn/addons/api0351_user/wxapp.php" />
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/vendor/Wxpay/lib/WxPayApi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8344">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/vendor/Wxpay/example/download.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy2.0/Application/Uapi/Controller/WxnotifyController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-684">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy2.0/ThinkPHP/Library/Vendor/wxpay/WxPay.Api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="213" column="46" lean-forward="false" selection-start-line="213" selection-start-column="32" selection-end-line="213" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy2.0/ThinkPHP/Library/Vendor/wxpay/wxpay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="56" column="54" lean-forward="false" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="76" column="22" lean-forward="true" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v1/Advert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="95" column="5" lean-forward="false" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/route.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="397" column="33" lean-forward="false" selection-start-line="397" selection-start-column="27" selection-end-line="397" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v1/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fwy3.1/application/adv_client/controller/v1/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="236" column="39" lean-forward="false" selection-start-line="236" selection-start-column="39" selection-end-line="236" selection-end-column="39" />
+          <folding>
+            <element signature="e#2223#2287#0#PHP" expanded="true" />
+            <element signature="e#2571#4441#0#PHP" expanded="false" />
+            <element signature="e#4518#5369#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

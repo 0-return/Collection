@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../mobileadvmanage/.idea/Adv.iml" filepath="$PROJECT_DIR$/../mobileadvmanage/.idea/Adv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Api/.idea/Api.iml" filepath="$PROJECT_DIR$/../Api/.idea/Api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Api/.idea/Api.iml" filepath="$PROJECT_DIR$/../Api/.idea/Api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Class.iml" filepath="$PROJECT_DIR$/.idea/Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Demo/.idea/Demo.iml" filepath="$PROJECT_DIR$/../Demo/.idea/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Resource/.idea/Resource.iml" filepath="$PROJECT_DIR$/../Resource/.idea/Resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Sale/.idea/Sale.iml" filepath="$PROJECT_DIR$/../Sale/.idea/Sale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SaleApi/.idea/SaleApi.iml" filepath="$PROJECT_DIR$/../SaleApi/.idea/SaleApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SaleHome/.idea/SaleHome.iml" filepath="$PROJECT_DIR$/../SaleHome/.idea/SaleHome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../advmanage/.idea/advmanage.iml" filepath="$PROJECT_DIR$/../advmanage/.idea/advmanage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agent/.idea/agent.iml" filepath="$PROJECT_DIR$/../agent/.idea/agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../back/.idea/back.iml" filepath="$PROJECT_DIR$/../back/.idea/back.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../barcode/.idea/barcode.iml" filepath="$PROJECT_DIR$/../barcode/.idea/barcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../btb/.idea/btb.iml" filepath="$PROJECT_DIR$/../btb/.idea/btb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../camera/.idea/camera.iml" filepath="$PROJECT_DIR$/../camera/.idea/camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cash/.idea/cash.iml" filepath="$PROJECT_DIR$/../cash/.idea/cash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fwy1.0/.idea/fwy.iml" filepath="$PROJECT_DIR$/../fwy1.0/.idea/fwy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fwy2.0/.idea/fwy2.0.iml" filepath="$PROJECT_DIR$/../fwy2.0/.idea/fwy2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fwy3.0/.idea/fwy2.0.iml" filepath="$PROJECT_DIR$/../fwy3.0/.idea/fwy2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fwy3.0/.idea/fwy3.0.iml" filepath="$PROJECT_DIR$/../fwy3.0/.idea/fwy3.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fwy3.1/.idea/fwy3.1.iml" filepath="$PROJECT_DIR$/../fwy3.1/.idea/fwy3.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hbfq/.idea/hbfq.iml" filepath="$PROJECT_DIR$/../hbfq/.idea/hbfq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hfApp/.idea/hfApp.iml" filepath="$PROJECT_DIR$/../hfApp/.idea/hfApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hfAppAdmin/.idea/hfAppAdmin.iml" filepath="$PROJECT_DIR$/../hfAppAdmin/.idea/hfAppAdmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../integral/.idea/integral.iml" filepath="$PROJECT_DIR$/../integral/.idea/integral.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lpjy/.idea/lpjy.iml" filepath="$PROJECT_DIR$/../lpjy/.idea/lpjy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lztz/.idea/lztz.iml" filepath="$PROJECT_DIR$/../lztz/.idea/lztz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sh/.idea/sh.iml" filepath="$PROJECT_DIR$/../sh/.idea/sh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shenhuoApp/.idea/shdApp.iml" filepath="$PROJECT_DIR$/../shenhuoApp/.idea/shdApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shenghuo/.idea/shenghuo.iml" filepath="$PROJECT_DIR$/../shenghuo/.idea/shenghuo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shenhuoAdmin/.idea/shenhuoAdmin.iml" filepath="$PROJECT_DIR$/../shenhuoAdmin/.idea/shenhuoAdmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shenhuoApi/.idea/shenhuoApi.iml" filepath="$PROJECT_DIR$/../shenhuoApi/.idea/shenhuoApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tool/.idea/tool.iml" filepath="$PROJECT_DIR$/../tool/.idea/tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tp5/.idea/tp5.iml" filepath="$PROJECT_DIR$/../tp5/.idea/tp5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fwy3.0/.idea/tp5.02.iml" filepath="$PROJECT_DIR$/../fwy3.0/.idea/tp5.02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../v7/.idea/v7.iml" filepath="$PROJECT_DIR$/../v7/.idea/v7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wos/.idea/wos.iml" filepath="$PROJECT_DIR$/../wos/.idea/wos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wosApi/.idea/wosApi.iml" filepath="$PROJECT_DIR$/../wosApi/.idea/wosApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yf135/.idea/yf135.iml" filepath="$PROJECT_DIR$/../yf135/.idea/yf135.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ywk/.idea/ywk.iml" filepath="$PROJECT_DIR$/../ywk/.idea/ywk.iml" />
+    </modules>
+  </component>
+</project>
